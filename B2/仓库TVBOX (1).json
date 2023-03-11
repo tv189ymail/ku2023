@@ -1,0 +1,55 @@
+﻿{
+"storeHouse":
+[
+
+{"sourceName":"可视本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
+{"sourceName":"云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName":"云星②号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/极速仓库.json"},
+{"sourceName":"云星③号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/缓冲仓库.json"},
+{"sourceName":"云星④号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/大佬仓库.json"},
+{"sourceName":"星河1号仓","sourceUrl":"https://agit.ai/pinghui/xinghe/raw/commit/272fbb5697a8aa6abb60c7bd76252f9c13c89a24/ronghe.txt"},
+{"sourceName":"星河2号仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/2.txt"},
+{"sourceName": "星河3号仓","sourceUrl": "https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
+{"sourceName": "星河4号仓","sourceUrl": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/1"},
+{"sourceName": "星河5号仓","sourceUrl": "https://agit.ai/leroy/leroy/raw/branch/master/22.bin"},
+{"sourceName": "网络精选1","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/f5d5dbc6-d403-4cc4-92d5-f213319713bf.jpg"},
+{"sourceName": "网络精选2","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/de5cb406-a6c0-471f-9921-66ec910e5ba6.jpg"},
+{"sourceName": "网络精选3","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/f721e0c9-7882-4352-acb2-c0a78539ba44.jpg"},
+{"sourceName": "网络精选4","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/53e584f7-48da-40b1-b213-e71e5055f3cb.jpg"},
+{"sourceName": "网络精选5","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/bd7b7d4d-164b-4117-aed3-c78496ef284d.jpg"},
+{"sourceName": "网络精选6","sourceUrl": "https://cn.kstore.space/download/2904/123.txt"},
+{"sourceName": "网络精选7","sourceUrl": "https://box.nxog.top/1"},
+{"sourceName": "网络精选8","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/1bf5f4d3-893c-49e7-9ec0-56017a4f6b90.jpg"},
+{"sourceName": "网络精选9","sourceUrl": "https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt"},
+{"sourceName": "欧歌主仓","sourceUrl": "http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=欧歌"},
+{"sourceName": "派大星仓库","sourceUrl": "http://tv.nxog.top/m/m/5.php?b=派大星"},
+{"sourceName": "安卓哥1仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
+{"sourceName": "安卓哥2仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
+{"sourceName": "安卓哥JS仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
+{"sourceName": "安卓哥PY仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"},
+{"sourceName": "高天流云","sourceUrl": "https://agit.ai/butterfly/md/raw/branch/PLANT/DC-91gao-OL.json"},
+{"sourceName": "其它在线","sourceUrl": "https://agit.ai/butterfly/md/raw/branch/PLANT/DC-91-OL.json"},
+{"sourceName":"吾爱1号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"},
+{"sourceName":"吾爱2号仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67777/2.json?sign=6uxC2q2PId6OS9Y9ucygvIGl6wvugOzZN3E0Hzl4oCs%3D%3A0"},
+{"sourceName": "吾爱3号仓","sourceUrl": "https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"},
+
+
+{"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/1.txt"},
+{"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/2.txt"},
+{"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/3.txt"},
+{"sourceName":"🥕多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/4.txt"},
+
+
+{"sourceName":"🌙影视仓①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
+{"sourceName":"🌙影视仓②","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"},
+{"sourceName":"🌙影视仓③","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"},
+{"sourceName":"🌙影视仓④","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"},
+
+{"sourceName": "绿茶①号馆","sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
+{"sourceName": "绿茶②号馆","sourceUrl": "https://pan.css.lc/api/v3/file/get/90002/%E9%A3%9E%E6%9C%BA%E4%BB%9323.txt?sign=TGawyoffB7Ky5LLeND-J0-FiMqcsc1YD5n4QzyCdywY%3D%3A0"},
+{"sourceName": "绿茶③号馆","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"},
+{"sourceName": "绿茶④号馆","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"}
+
+
+]
+}

@@ -1,0 +1,4 @@
+{
+    "urls": [{name:'✌️影视精选专线①✌️',url:'http://dlj.bz/kjTAcf',time:'电影电视搜索'},{name:'🤓影视精选专线②🤓',url:'http://dlj.bz/0230MI',time:'主要爬虫和t4搜索'},{name:'🤜影视大全🤛',url:'https://liu673cn.github.io/box/m.json',time:'速度快'},{name:'🤲娱乐学习体育🤲',url:'http://dlj.bz/wLWnh2',time:'B站资源'},{name:'✊大杂烩①号✊',url:'https://gitea.com/hongdeng98/YH/raw/branch/main/Mao0820.json',time:'gitea网盘有时候比较慢'},{name:'👆大杂烩②号☝️',url:'https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt',time:'互联网免费互通共享精神'},{name:'🤘大杂烩③号🤟',url:'https://download.kstore.space/download/2863/01.txt',time:'永垂不朽♦♦♥'},{name:'😍网盘线路测试😍',url:'http://dlj.bz/Op5Sio',time:'共享网盘'}
+        ]
+}
