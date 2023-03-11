@@ -1,0 +1,35 @@
+{ "storeHouse": [ {"sourceName":"♠西夏影视主仓★","sourceUrl":"https://agit.ai/hjf520/000/raw/branch/master/%e4%bb%93%e5%ba%93/%e8%a5%bf%e5%a4%8f.txt"},
+{"sourceName":"♠云星在线仓库★","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
+{
+sourceName: "♠吾爱推荐★",
+sourceUrl: "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"
+},
+{
+sourceName: "♠安卓哥1号仓★",
+sourceUrl: "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"
+},
+{
+sourceName: "♠安卓哥JS仓★",
+sourceUrl: "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"
+},
+{
+sourceName: "♠安卓哥PY仓★",
+sourceUrl: "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"
+},
+{"sourceName":"♠518 仓库★","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox2.txt"}, 
+{"sourceName":"♠星河仓库★","sourceUrl":"https://pan.css.lc/api/v3/file/get/89945/%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E5%A4%9A%E7%BA%BF%E8%B7%AF%E4%BB%93%E5%BA%93.txt?sign=2ajJ85uhS8mnmvvOICeW4a8d1AeVjp5VFZvBgbAz0cc%3D%3A0"},
+{"sourceName":"♠影视仓库①★","sourceUrl":"https://agit.ai/l/l/raw/branch/master/a"},
+{"sourceName":"♠影视仓库②★","sourceUrl":"https://agit.ai/l/l/raw/branch/master/b"},
+{"sourceName":"♠影视仓库③★","sourceUrl":"https://agit.ai/l/l/raw/branch/master/c"},
+{"sourceName":"♠影视仓库④★","sourceUrl":"https://agit.ai/l/l/raw/branch/master/d"},
+
+{"sourceName":"♠网络仓①★","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"},
+{"sourceName":"♠网络仓②★","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
+
+{"sourceName":"♠搜集仓①★","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/79014/%E8%87%AA%E5%BB%BA%E4%BB%93%E5%BA%93.txt?sign=bNNnkL0VDzkLMrxi_3PUuJraZnhZ6xt12EHAwlxM-AY%3D%3A0"},
+{"sourceName":"♠影视仓②★","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/69627/%E7%B2%BE%E7%AE%801.txt?sign=Bf9irXcAxZFtyv0Z92gw59fcugPGxcsT5Mmp1C4EtQs%3D%3A0"},
+{"sourceName":"♠影视仓③★","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/69628/%E7%B2%BE%E7%AE%802.txt?sign=6Plt1iLvoG5736qtWdtBoMJcr2E08IN7s5GT5Ti5iW4%3D%3A0"},
+{"sourceName":"♠影视仓④★","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/69629/%E7%B2%BE%E7%AE%803.txt?sign=30SnCteDHzzYVrQ4o5YViMj9t0flna0l2YGmoGX5DlY%3D%3A0"}
+
+]
+}
