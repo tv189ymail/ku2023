@@ -1,0 +1,24 @@
+{
+"storeHouse":
+[
+{"sourceName":"💚秒播影视仓1","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c1.json"},
+{"sourceName":"💛秒播影视仓2","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c2.json"},
+{"sourceName":"❤️秒播影视仓3","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c3.json"},
+{"sourceName":"🌙秒播影视仓4","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c4.json"},
+{"sourceName":"💛秒播影视仓5","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c5.json"},
+{"sourceName":"❤️秒播影视仓6","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c6.json"},
+{"sourceName":"☁️网络本地仓","sourceUrl":"clan://localhost/TVBox/lib/ksck.json"},
+{"sourceName":"🥕dly","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/zc.json"},
+{"sourceName":"❤️fj ","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/fj.txt"},
+{"sourceName":"影视仓体验①号库","sourceUrl":"https://download.kstore.space/download/2883/PY/%E2%91%A0.txt"}, 
+{"sourceName":"影视仓体验②号库","sourceUrl":"https://download.kstore.space/download/2883/PY/%E2%91%A1.txt"},     
+{"sourceName":"jar资源库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},
+{"sourceName":"订制壁纸库","sourceUrl":"https://download.kstore.space/download/2883/PY/%E8%AE%A2%E5%88%B6%E5%A3%81%E7%BA%B8%E5%BA%93.txt"},    
+{"sourceName":"js体验库","sourceUrl":"https://download.kstore.space/download/2883/PY/js%E4%BD%93%E9%AA%8C%E5%BA%93.txt"},
+{"sourceName":"py体验库","sourceUrl":"https://download.kstore.space/download/2883/PY/py%E4%BD%93%E9%AA%8C%E5%BA%93.txt"},
+{"sourceName":"优选①仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/1.txt"},
+{"sourceName":"公众②仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/2.txt"},
+{"sourceName":"聚合③仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/3.txt"},
+{"sourceName":"预备④仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/4.txt"}
+]
+}
